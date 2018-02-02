@@ -1,6 +1,3 @@
-console.table(cube.points);
-console.table(cube.lines);
-
 var points, lines, cTrans, newPoints, xOrigin, yOrigin;
 points = cube.points;
 lines  = cube.lines;
@@ -59,5 +56,4 @@ function draw()
 		ctx.lineTo(x2, y2);
 		ctx.stroke();
 	}
-	ctx.closePath();
 }
