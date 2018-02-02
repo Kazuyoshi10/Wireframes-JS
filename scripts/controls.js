@@ -269,3 +269,28 @@ function reset()
 	initTranslate();
 	draw();
 }
+/*
+function changeToPyramid() {
+	if(isSpinning)
+	{
+		clearInterval(window.spin);
+		isSpinning = false;
+	}
+	points = pyramid.points;
+	lines = pyramid.lines;
+	initTranslate();
+	draw();
+}
+
+function changeToCube() {
+	if(isSpinning)
+	{
+		clearInterval(window.spin);
+		isSpinning = false;
+	}
+	points = cube.points;
+	lines = cube.lines;
+	initTranslate();
+	draw();
+}
+*/

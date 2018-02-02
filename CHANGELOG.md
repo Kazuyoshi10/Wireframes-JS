@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [0.1.2] - 2018-02-02
+### Added
+- css styling from `styles.css`
+
 ## [0.1.1] - 2018-02-02
 ### Removed
 - unecessary call to `closePath()` in `draw()` method
