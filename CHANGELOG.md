@@ -5,3 +5,8 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+### Added
+- `index.html` page which displays canvas and UI
+- JavaScript from original assignment with minor tweaks to remove PHP elements
+- `shapes.js` to define some shape matrices in place of PHP file i/o
+- `styles.css` for later use with styling the UI
